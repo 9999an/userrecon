@@ -19,7 +19,7 @@ printf "\e[1;77m  \___/|___/\___|_|  |_| \_\___|\___\___/|_| |_|  \e[0m\e[1;92m\
 printf "                   \e[1;92mv1.0, Author: @thelinuxchoice\e[0m   \e[1;92m\  __  / \e[0m\n"
 printf "                                                    \e[1;92m'.__.' \e[0m\n"
              {?}       ınput username: ozzgeornek                            
-userrecon.png
+
 
 }
 

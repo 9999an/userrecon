@@ -21,7 +21,7 @@ printf "                                                    \e[1;92m'.__.' \e[0m
                                                 
 
 
-}
+{?} ınput username: ozzgeornek
 
 partial() {
 

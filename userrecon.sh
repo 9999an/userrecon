@@ -19,15 +19,16 @@ printf "\e[1;77m  \___/|___/\___|_|  |_| \_\___|\___\___/|_| |_|  \e[0m\e[1;92m\
 printf "                   \e[1;92mv1.0, Author: @thelinuxchoice\e[0m   \e[1;92m\  __  / \e[0m\n"
 printf "                                                    \e[1;92m'.__.' \e[0m\n"
                                                 
-
+{?} input username: ozzgeornelozzgeornek
+{*} checking username ozzgeornek           on 
 
 }
 
 partial() {
 
-if [[ -e $username.txt ]]; then
-printf "\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Saved:\e[0m\e[1;77m %s.txt\n" $username
-fi
+if [[ -e fi.txt ]]; then
+printf fie[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Saved:\e[0m\e[1;77m %s.txt\n" $username
+fifi
 
 
 }
